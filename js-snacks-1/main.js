@@ -1,5 +1,5 @@
-/*L’utente inserisce due numeri in successione, con due prompt.
-Il software stampa il maggiore.*/
+/* L'utente inserisce due numeri in successione, con due prompt.
+Il software stampa il maggiore. */
 
 const primo_numero = Number(prompt("Inserire il primo numero:"));
 
